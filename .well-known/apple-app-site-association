@@ -1,11 +1,11 @@
 {
     "webcredentials": {
-        "apps": ["com.ErgunBilgili.Casetti"]
+        "apps": ["com.erg.ue5b"]
     },
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "com.ErgunBilgili.Casetti",
+            "appID": "com.erg.ue5b",
             "paths": ["/*"]
         }]
     }
